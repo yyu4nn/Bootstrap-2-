@@ -1,0 +1,51 @@
+😏🍔
+
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: #EF767A;
+}
+
+nav{
+    background-color: #DAF7DC;
+}
+
+section{
+    background-color: #456990;
+}
+
+article{
+    background-color: #49BEAA;
+}
+
+aside{
+    background-color: #49DCB1;
+}
+
+footer{
+    background-color: #EEB868;
+}
+
+.altura1{
+    height: 10vh;
+}
+
+.altura2{
+    height: 10vh;
+}
+
+.altura3{
+    height: 70vh;
+}
+
+.altura4{
+    height: 10vh;
+}
